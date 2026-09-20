@@ -1,8 +1,7 @@
-**Project.2. Business Dashboarding: Executive**
-
-**Dashboard for Amazon Sales (PowerBI)**
+**Project.2. Business Dashboarding: Executive Dashboard for Amazon Sales (PowerBI)**
 
 **Project Overview**
+
 Create a professional executive-level dashboard using Power BI that visualizes Amazon sales
 metrics. This project bridges data analysis with business communication, enabling non-
 technical stakeholders to make data-driven decisions.
